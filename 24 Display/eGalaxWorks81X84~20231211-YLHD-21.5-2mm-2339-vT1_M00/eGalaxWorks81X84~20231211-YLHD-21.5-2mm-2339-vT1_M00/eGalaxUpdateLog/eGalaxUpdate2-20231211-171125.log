@@ -1,0 +1,96 @@
+[17:11:25] 
+
+[17:11:25] eGalaxUpdate2 v3.0.8.7 (221117.154.193) -Demo
+[17:11:25] eGalaxUpdate2 Initialized.
+[17:11:25] Find touch controller: P81X84
+[17:11:25] - Type: PCAP81X84 Series
+[17:11:25] - Model: Orion_0193_2339
+[17:11:25] - Version: T1_M00
+[17:11:25] - ModelInfo: 
+[17:11:25] Controller get EHQA level : 0x00
+[17:11:25] Touch controller connected.
+[17:11:25] Autorun Enabled.
+[17:11:25] Image Type: P81X84
+[17:11:25] FW image get EHQA level : 0x00
+[17:11:25] Load Image OK
+[17:11:25] Check FW Information before auto update 
+[17:11:26] Reset controller Pass.
+[17:11:26] Wait controller disconnect.
+[17:11:26] Device disconnected for PnP process.
+[17:11:26] Wait controller disconnect success.
+[17:11:26] Wait controller PnP process.
+[17:11:27] Find touch controller: P81X84 Loader
+[17:11:27] - Status Code: 0x4000
+[17:11:27] - Type: P81X84 Series
+[17:11:27] - Model: P81X84 BFW
+[17:11:27] - Version: 1.34
+[17:11:27] - ModelInfo: N/A
+[17:11:27] Touch controller PnP Success.
+[17:11:27] Check loader state Pass.
+[17:11:31] Erase firmware Pass.
+[17:11:31] Download firmware.
+[17:11:32] Downloading... 01%
+[17:11:32] Downloading... 04%
+[17:11:33] Downloading... 06%
+[17:11:33] Downloading... 09%
+[17:11:34] Downloading... 11%
+[17:11:34] Downloading... 13%
+[17:11:35] Downloading... 16%
+[17:11:35] Downloading... 18%
+[17:11:36] Downloading... 21%
+[17:11:36] Downloading... 23%
+[17:11:37] Downloading... 25%
+[17:11:37] Downloading... 28%
+[17:11:38] Downloading... 30%
+[17:11:38] Downloading... 32%
+[17:11:39] Downloading... 35%
+[17:11:39] Downloading... 37%
+[17:11:40] Downloading... 40%
+[17:11:40] Downloading... 42%
+[17:11:41] Downloading... 44%
+[17:11:41] Downloading... 47%
+[17:11:42] Downloading... 49%
+[17:11:42] Downloading... 51%
+[17:11:43] Downloading... 54%
+[17:11:43] Downloading... 56%
+[17:11:44] Downloading... 58%
+[17:11:44] Downloading... 61%
+[17:11:45] Downloading... 63%
+[17:11:45] Downloading... 66%
+[17:11:46] Downloading... 68%
+[17:11:46] Downloading... 70%
+[17:11:47] Downloading... 73%
+[17:11:47] Downloading... 75%
+[17:11:48] Downloading... 78%
+[17:11:48] Downloading... 80%
+[17:11:49] Downloading... 82%
+[17:11:49] Downloading... 85%
+[17:11:50] Downloading... 87%
+[17:11:50] Downloading... 89%
+[17:11:51] Downloading... 92%
+[17:11:51] Downloading... 94%
+[17:11:52] Downloading... 97%
+[17:11:52] Downloading... 99%
+[17:11:52] Download firmware Pass.
+[17:11:53] Verify download result Pass.
+[17:11:53] Reset controller Pass.
+[17:11:53] Wait controller disconnect.
+[17:11:53] Device disconnected for PnP process.
+[17:11:53] Wait controller disconnect success.
+[17:11:53] Wait controller PnP process.
+[17:11:54] Find touch controller: P81X84
+[17:11:54] - Type: PCAP81X84 Series
+[17:11:54] - Model: Orion_0193_2339
+[17:11:54] - Version: T1_M00
+[17:11:54] - ModelInfo: 
+[17:11:54] Controller get EHQA level : 0x00
+[17:11:54] Touch controller PnP Success.
+[17:11:55] Check firmware state Pass.
+[17:11:55] Current Device: Orion_0193_2339, T1_M00, 0xE015, 00.00, 0xB155
+[17:11:55] Target Device: Orion_0193_2339, T1_M00, 0xE015, 00.00, 0xB155
+[17:11:55] Verfication Pass.
+[17:11:55] Hardware calibration Pass.
+[17:11:55] Reset firmware Pass.
+[17:11:55] Firmware update Success.
+[17:11:55] Application Exit
+[17:11:55] Firmware update resource release.
